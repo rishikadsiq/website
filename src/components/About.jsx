@@ -1,13 +1,15 @@
 import React, { useState } from 'react';
 import { Nav, Dropdown } from 'react-bootstrap';
-import './About.css'; // Import your CSS file
-import { Link } from 'react-router-dom';
+import { useMediaQuery } from 'react-responsive';
 
 const About = () => {
   const [isOpen, setIsOpen] = useState(false);
+  const isDesktopOrLaptop = useMediaQuery({ minDeviceWidth: 1224 });
 
   const handleMouseEnter = () => {
-    setIsOpen(true);
+    if (isDesktopOrLaptop) {
+      setIsOpen(true);
+    }
   };
 
   const handleMouseLeave = () => {
@@ -15,42 +17,32 @@ const About = () => {
   };
 
   return (
-    <Nav>
-      <Dropdown show={isOpen} onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} as={Nav.Item}>
-        <Dropdown.Toggle as={CustomNavLink} id="contact-us-dropdown">
-          <Link to='about' className="link-unstyled text-decoration-none">
-          About Us
-          </Link>
-        </Dropdown.Toggle>
-        <Dropdown.Menu show={isOpen} onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} as={Nav.Item}>
-          <Dropdown.Item href="#action/1">About MediaAmp</Dropdown.Item>
-          <Dropdown.Item href="#action/2">Our Clients</Dropdown.Item>
-          <Dropdown.Item href="#action/3">Our Partners</Dropdown.Item>
-          <Dropdown.Item href="#action/4">Leadership</Dropdown.Item>
-          <Dropdown.Item href="#action/5">Career</Dropdown.Item>
-        </Dropdown.Menu>
-      </Dropdown>
-    </Nav>
-  );
-}
+    <Dropdown >
+      <Nav.Link
+        onMouseEnter={handleMouseEnter}
+        onMouseLeave={handleMouseLeave}
+        href='/about'
+        style={{ color: 'white' }}
+      >
+        About Us
 
-const CustomNavLink = React.forwardRef(({ children, onClick }, ref) => {
-  return (
-    <span
-      ref={ref}
-      onClick={(e) => {
-        e.preventDefault();
-        onClick(e);
-      }}
-      onMouseEnter={(e) => {
-        e.preventDefault();
-        onClick(e);
-      }}
-      className="nav-link no-arrow" 
-    >
-      {children}
-    </span>
+        {isOpen && isDesktopOrLaptop && (
+          <Dropdown.Menu show={isOpen} style={{
+            textAlign: 'center',
+            backgroundColor: 'white', // Change background color
+            color: '#fff', // Change text color
+
+          }}>
+            <Dropdown.Item href="/portfolio" >About MediaAmp</Dropdown.Item>
+            <Dropdown.Item href="/clients" >Our Clients</Dropdown.Item>
+            <Dropdown.Item href="/partners" >Our Partners</Dropdown.Item>
+            <Dropdown.Item href="/leadership" >Leadership</Dropdown.Item>
+            <Dropdown.Item href="/career" >Career</Dropdown.Item>
+          </Dropdown.Menu>
+        )}
+      </Nav.Link>
+    </Dropdown>
   );
-});
+};
 
 export default About;
