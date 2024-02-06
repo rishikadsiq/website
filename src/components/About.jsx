@@ -30,7 +30,7 @@ const About = () => {
           <Dropdown.Menu
             show={isOpen}
             style={{
-              textAlign: 'center',
+              
               backgroundColor: 'white', // Change background color
               color: '#fff', // Change text color
             }}
