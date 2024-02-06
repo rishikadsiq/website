@@ -1,5 +1,5 @@
 import CarouselComponent from "./CarouselComponent";
-import CardComponent from "./Cards";
+import CardComponent from "./CardComponent";
 
 const Home = () => {
     return (
