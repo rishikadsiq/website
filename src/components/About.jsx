@@ -1,17 +1,15 @@
 import React, { useState } from 'react';
 import { Nav, Dropdown } from 'react-bootstrap';
-import { useMediaQuery } from 'react-responsive';
+
 
 const About = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const isDesktopOrLaptop = useMediaQuery({ minDeviceWidth: 1224 });
+
 
   const handleMouseEnter = () => {
-    if (isDesktopOrLaptop) {
-      setIsOpen(true);
-    }
-  };
 
+    setIsOpen(true);
+  };
   const handleMouseLeave = () => {
     setIsOpen(false);
   };
@@ -22,11 +20,11 @@ const About = () => {
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}
         href='/about'
-        style={{ color: 'white' }}
+        style={{ color: 'white', marginLeft: '20px', marginRight: '20px' }}
       >
         About Us
 
-        {isOpen && isDesktopOrLaptop && (
+        {isOpen && (
           <Dropdown.Menu show={isOpen} style={{
             textAlign: 'center',
             backgroundColor: 'white', // Change background color

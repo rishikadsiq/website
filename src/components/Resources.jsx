@@ -13,7 +13,7 @@ const Resources = () => {
     };
     return (
         <Dropdown>
-            <Nav.Link onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} href='resources' style={{ color: 'white' }}>
+            <Nav.Link onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} href='resources' style={{ color: 'white', marginLeft: '20px', marginRight: '20px' }}>
                 Resources
 
                 {isOpen && (
