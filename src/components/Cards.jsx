@@ -1,55 +1,63 @@
-import { Container } from 'react-bootstrap';
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
 import Card1 from './Images/Card1.jpg';
 import Card2 from './Images/Card2.jpg';
 import Card3 from './Images/Card3.jpg';
+import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 
 function CardComponent() {
     return (
-        <Container style={{ paddingTop: '20px' }}>
-            <div>
+        <Container>
+            <div style={{ paddingTop: '20px' }}>
                 <h2>Services</h2>
             </div>
-            <Row>
-                <Col>
-                    <Card >
-                        <Card.Img variant="top" src={Card1} />
+            <Row xs={1} sm={2} md={3} className="g-3">
+                <Col style={{ paddingTop: '10px' }}>
+                    <Card className="shadow-sm">
+                        <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={Card1} />
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the
-                                bulk of the card's content.
+                                This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <div className="d-flex justify-content-between align-items-center">
+                                <div className="btn-group">
+
+                                    <Button variant="outline-secondary">Read More</Button>
+                                </div>
+
+                            </div>
                         </Card.Body>
                     </Card>
                 </Col>
-                <Col>
-                    <Card >
-                        <Card.Img variant="top" src={Card2} />
+                <Col style={{ paddingTop: '10px' }}>
+                    <Card className="shadow-sm">
+                        <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={Card2} />
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the
-                                bulk of the card's content.
+                                This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <div className="d-flex justify-content-between align-items-center">
+                                <div className="btn-group">
+
+                                    <Button variant="outline-secondary">Read More</Button>
+                                </div>
+
+                            </div>
                         </Card.Body>
                     </Card>
                 </Col>
-                <Col>
-                    <Card >
-                        <Card.Img variant="top" src={Card3} />
+                <Col style={{ paddingTop: '10px' }}>
+                    <Card className="shadow-sm">
+                        <img className="bd-placeholder-img card-img-top" width="100%" height="225" src={Card3} />
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the
-                                bulk of the card's content.
+                                This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <div className="d-flex justify-content-between align-items-center">
+                                <div className="btn-group">
+
+                                    <Button variant="outline-secondary">Read More</Button>
+                                </div>
+
+                            </div>
                         </Card.Body>
                     </Card>
                 </Col>

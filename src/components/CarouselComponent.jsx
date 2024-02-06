@@ -5,16 +5,18 @@ import Image3 from './Images/3.jpg';
 import { Container } from 'react-bootstrap';
 
 
-function DarkVariantExample() {
+
+function CarouselComponent() {
     return (
         <Container style={{ paddingTop: '20px' }}>
 
-            <Carousel data-bs-theme="dark" fade={true}>
-                <Carousel.Item>
+            <Carousel data-bs-theme="dark" fade={true} >
+                <Carousel.Item >
                     <img
                         className="d-block w-100"
                         src={Image1}
                         alt="First slide"
+                        style={{ maxHeight: '500px', width: 'auto' }}
                     />
                     <Carousel.Caption>
                         <h5>First slide label</h5>
@@ -26,6 +28,7 @@ function DarkVariantExample() {
                         className="d-block w-100"
                         src={Image2}
                         alt="Second slide"
+                        style={{ maxHeight: '500px', width: 'auto' }}
                     />
                     <Carousel.Caption>
                         <h5>Second slide label</h5>
@@ -37,6 +40,7 @@ function DarkVariantExample() {
                         className="d-block w-100"
                         src={Image3}
                         alt="Third slide"
+                        style={{ maxHeight: '500px', width: 'auto' }}
                     />
                     <Carousel.Caption>
                         <h5>Third slide label</h5>
@@ -50,4 +54,4 @@ function DarkVariantExample() {
     );
 }
 
-export default DarkVariantExample;
+export default CarouselComponent;
