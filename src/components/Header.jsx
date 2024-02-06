@@ -1,7 +1,7 @@
-import logo from '../logo.png';
 import About from './About.jsx';
 import Resources from './Resources.jsx';
 import { Nav, Navbar, Container } from 'react-bootstrap';
+import Logo from '../logo.png';
 
 function Header() {
     return (
@@ -15,7 +15,7 @@ function Header() {
                 <Navbar.Brand href="/" style={{ color: 'white' }} >
                     <img
                         alt=""
-                        src={logo}
+                        src={Logo}
                         width="30"
                         height="30"
 
