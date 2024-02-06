@@ -7,7 +7,7 @@ import {Image} from 'react-bootstrap';
 function CardComponent() {
     return (
         <Container>
-            <div style={{ paddingTop: '20px' }}>
+            <div style={{ paddingTop: '20px' }} >
                 <h2>Services</h2>
             </div>
             <Row xs={1} sm={2} md={3} className="g-3">
