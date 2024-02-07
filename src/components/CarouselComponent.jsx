@@ -3,7 +3,7 @@ import Image1 from './Images/1.jpg';
 import Image2 from './Images/2.jpg';
 import Image3 from './Images/3.jpg';
 import { Container } from 'react-bootstrap';
-import {Image} from 'react-bootstrap';
+import { Image } from 'react-bootstrap';
 
 
 

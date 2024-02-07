@@ -4,13 +4,14 @@ const CenterMessage = () => {
     return (
         <Container>
             <div style={{
-                fontFamily: "Raleway",
-                fontOpticalSizing: "auto",
-                fontWeight: 900,
-                fontStyle: "Normal",
+                fontFamily: 'Abril Fatface',
+                fontStyle: 'italic',
                 textAlign: "center",
-                borderTop: "2px solid black",
-                borderBottom: "2px solid black"
+                borderTop: "1px solid #ddd",
+                borderBottom: "1px solid #ddd",
+                // backgroundColor: '#ddd',
+                fontSize: "70px",
+                color: '#004f83'
             }}>
                 Embrace Change
             </div >

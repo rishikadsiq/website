@@ -34,9 +34,9 @@ const Resources = () => {
                             color: '#fff', // Change text color
                         }}
                     >
-                        <Dropdown.Item href="/case-study">Case Study</Dropdown.Item>
-                        <Dropdown.Item href="/blog">Blog</Dropdown.Item>
-                        <Dropdown.Item href="/news-stories">News & Stories</Dropdown.Item>
+                        <Dropdown.Item href="/resources/case-study">Case Study</Dropdown.Item>
+                        <Dropdown.Item href="/resources/blog">Blog</Dropdown.Item>
+                        <Dropdown.Item href="/resources/news-stories">News & Stories</Dropdown.Item>
                     </Dropdown.Menu>
 
                 )

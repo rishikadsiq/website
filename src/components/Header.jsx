@@ -30,6 +30,7 @@ function Header() {
                         < Nav.Link href="/" style={{ color: 'white', marginRight: '20px' }}> Home</Nav.Link>
                         <About />
                         <Resources />
+
                         <Nav.Link href="/contact" style={{ color: 'white', marginLeft: '20px', marginRight: '20px' }}>Contact Us</Nav.Link>
                         <Nav.Link href="/career" style={{ color: 'white', marginLeft: '20px' }}>Career</Nav.Link>
                     </Nav>
