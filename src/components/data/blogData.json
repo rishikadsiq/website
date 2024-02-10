@@ -2,422 +2,428 @@
     "blog": [
         {
             "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
+            "img-path": "/Images/Blog-1.jpg",
             "title": "Blog 1",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 2,
-            "img-path": "../Images/Blog-2.jpg",
+            "img-path": "/Images/Blog-2.jpg",
             "title": "Blog 2",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 3,
-            "img-path": "../Images/Blog-3.jpg",
+            "img-path": "/Images/Blog-3.jpg",
             "title": "Blog 3",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 4,
-            "img-path": "../Images/Blog-4.jpg",
+            "img-path": "/Images/Blog-4.jpg",
             "title": "Blog 4",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 5,
-            "img-path": "../Images/Blog-5.jpg",
+            "img-path": "/Images/Blog-5.jpg",
             "title": "Blog 5",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 6,
-            "img-path": "../Images/Blog-6.jpg",
+            "img-path": "/Images/Blog-6.jpg",
             "title": "Blog 6",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 7,
-            "img-path": "../Images/Blog-7.jpg",
+            "img-path": "/Images/Blog-7.jpg",
             "title": "Blog 7",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 8,
-            "img-path": "../Images/Blog-8.jpg",
+            "img-path": "/Images/Blog-8.jpg",
             "title": "Blog 8",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 9,
-            "img-path": "../Images/Blog-9.jpg",
+            "img-path": "/Images/Blog-9.jpg",
             "title": "Blog 9",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 10,
-            "img-path": "../Images/Blog-10.jpg",
+            "img-path": "/Images/Blog-10.jpg",
             "title": "Blog 10",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 11,
-            "img-path": "../Images/Blog-11.jpg",
-            "title": "Blog 1",
+            "img-path": "/Images/Blog-1.jpg",
+            "title": "Blog 11",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 12,
-            "img-path": "../Images/Blog-12.jpg",
-            "title": "Blog 2",
+            "img-path": "/Images/Blog-2.jpg",
+            "title": "Blog 12",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
             "id": 13,
-            "img-path": "../Images/Blog-13.jpg",
-            "title": "Blog 3",
+            "img-path": "/Images/Blog-3.jpg",
+            "title": "Blog 13",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 14,
+            "img-path": "/Images/Blog-4.jpg",
+            "title": "Blog 14",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 15,
+            "img-path": "/Images/Blog-5.jpg",
+            "title": "Blog 15",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 16,
+            "img-path": "/Images/Blog-6.jpg",
+            "title": "Blog 16",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 17,
+            "img-path": "/Images/Blog-7.jpg",
+            "title": "Blog 17",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 18,
+            "img-path": "/Images/Blog-8.jpg",
+            "title": "Blog 18",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 19,
+            "img-path": "/Images/Blog-9.jpg",
+            "title": "Blog 19",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 20,
+            "img-path": "/Images/Blog-10.jpg",
+            "title": "Blog 20",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 21,
+            "img-path": "/Images/Blog-1.jpg",
+            "title": "Blog 21",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 22,
+            "img-path": "/Images/Blog-2.jpg",
+            "title": "Blog 22",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 23,
+            "img-path": "/Images/Blog-3.jpg",
+            "title": "Blog 23",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 24,
+            "img-path": "/Images/Blog-4.jpg",
+            "title": "Blog 24",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 25,
+            "img-path": "/Images/Blog-5.jpg",
+            "title": "Blog 25",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 26,
+            "img-path": "/Images/Blog-6.jpg",
+            "title": "Blog 26",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 27,
+            "img-path": "/Images/Blog-7.jpg",
+            "title": "Blog 27",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 28,
+            "img-path": "/Images/Blog-8.jpg",
+            "title": "Blog 28",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 29,
+            "img-path": "/Images/Blog-9.jpg",
+            "title": "Blog 29",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 30,
+            "img-path": "/Images/Blog-10.jpg",
+            "title": "Blog 30",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 31,
+            "img-path": "/Images/Blog-1.jpg",
+            "title": "Blog 31",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 32,
+            "img-path": "/Images/Blog-2.jpg",
+            "title": "Blog 32",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 33,
+            "img-path": "/Images/Blog-3.jpg",
+            "title": "Blog 33",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 34,
+            "img-path": "/Images/Blog-4.jpg",
+            "title": "Blog 34",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 35,
+            "img-path": "/Images/Blog-5.jpg",
+            "title": "Blog 35",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 36,
+            "img-path": "/Images/Blog-6.jpg",
+            "title": "Blog 36",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 37,
+            "img-path": "/Images/Blog-7.jpg",
+            "title": "Blog 37",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 38,
+            "img-path": "/Images/Blog-8.jpg",
+            "title": "Blog 38",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 39,
+            "img-path": "/Images/Blog-9.jpg",
+            "title": "Blog 39",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 40,
+            "img-path": "/Images/Blog-10.jpg",
+            "title": "Blog 40",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 41,
+            "img-path": "/Images/Blog-1.jpg",
+            "title": "Blog 41",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 42,
+            "img-path": "/Images/Blog-2.jpg",
+            "title": "Blog 42",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 43,
+            "img-path": "/Images/Blog-3.jpg",
+            "title": "Blog 43",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 44,
+            "img-path": "/Images/Blog-4.jpg",
+            "title": "Blog 44",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 45,
+            "img-path": "/Images/Blog-5.jpg",
+            "title": "Blog 45",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 46,
+            "img-path": "/Images/Blog-6.jpg",
+            "title": "Blog 46",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 47,
+            "img-path": "/Images/Blog-7.jpg",
+            "title": "Blog 47",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 48,
+            "img-path": "/Images/Blog-8.jpg",
+            "title": "Blog 48",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 49,
+            "img-path": "/Images/Blog-9.jpg",
+            "title": "Blog 49",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 50,
+            "img-path": "/Images/Blog-10.jpg",
+            "title": "Blog 50",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 51,
+            "img-path": "/Images/Blog-1.jpg",
+            "title": "Blog 51",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 52,
+            "img-path": "/Images/Blog-2.jpg",
+            "title": "Blog 52",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 53,
+            "img-path": "/Images/Blog-3.jpg",
+            "title": "Blog 53",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 54,
+            "img-path": "/Images/Blog-4.jpg",
+            "title": "Blog 54",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 55,
+            "img-path": "/Images/Blog-5.jpg",
+            "title": "Blog 55",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 56,
+            "img-path": "/Images/Blog-6.jpg",
+            "title": "Blog 56",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 57,
+            "img-path": "/Images/Blog-7.jpg",
+            "title": "Blog 57",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 58,
+            "img-path": "/Images/Blog-8.jpg",
+            "title": "Blog 58",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 59,
+            "img-path": "/Images/Blog-9.jpg",
+            "title": "Blog 59",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 60,
+            "img-path": "/Images/Blog-10.jpg",
+            "title": "Blog 60",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 61,
+            "img-path": "/Images/Blog-1.jpg",
+            "title": "Blog 61",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 62,
+            "img-path": "/Images/Blog-2.jpg",
+            "title": "Blog 62",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 63,
+            "img-path": "/Images/Blog-3.jpg",
+            "title": "Blog 63",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 64,
+            "img-path": "/Images/Blog-4.jpg",
+            "title": "Blog 64",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 65,
+            "img-path": "/Images/Blog-5.jpg",
+            "title": "Blog 65",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 66,
+            "img-path": "/Images/Blog-6.jpg",
+            "title": "Blog 66",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 67,
+            "img-path": "/Images/Blog-7.jpg",
+            "title": "Blog 67",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 68,
+            "img-path": "/Images/Blog-8.jpg",
+            "title": "Blog 68",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 69,
+            "img-path": "/Images/Blog-9.jpg",
+            "title": "Blog 69",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         },
         {
-            "id": 1,
-            "img-path": "../Images/Blog-1.jpg",
-            "title": "Blog 1",
+            "id": 70,
+            "img-path": "/Images/Blog-10.jpg",
+            "title": "Blog 70",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
+        },
+        {
+            "id": 71,
+            "img-path": "/Images/Blog-1.jpg",
+            "title": "Blog 71",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque accusamus aliquam laborum minima mollitia officiis voluptatibus, labore nisi possimus voluptas, asperiores voluptates eveniet incidunt nam? Adipisci facere saepe in velit?"
         }
     ]
